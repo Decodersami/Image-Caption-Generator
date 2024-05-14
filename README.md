@@ -1,4 +1,3 @@
-# Image-Caption-Generator
 
  Image Caption Generator using Pre-trained Model
 =============================================
