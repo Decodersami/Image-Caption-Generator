@@ -2,7 +2,7 @@
  Image Caption Generator using Pre-trained Model
 =============================================
 
-This repository contains the source code and materials for the YouTube tutorial titled "[Image Caption Generator using a pre-trained model](https://www.youtube.com/watch?v=[video_link])". The goal of this project is to demonstrate how to create engaging and descriptive image captions using a pre-trained model called "nlpconnect/vit-gpt2-image-captioning" available on Hugging Face. Throughout the tutorial, we walkthrough setting up the environment, preparing data, running predictions, fine-tuning options, and discuss best practices.
+This repository contains the source code and materials for the YouTube tutorial titled "[Image Caption Generator using a pre-trained model From Hugging Face](https://www.youtube.com/watch?v=[https://youtu.be/jxsYGsR98oU?si=cJE4og0T4OYu5q-R])". The goal of this project is to demonstrate how to create engaging and descriptive image captions using a pre-trained model called "nlpconnect/vit-gpt2-image-captioning" available on Hugging Face. Throughout the tutorial, we walkthrough setting up the environment, preparing data, running predictions, fine-tuning options, and discuss best practices.
 
 Getting Started
 ---------------
